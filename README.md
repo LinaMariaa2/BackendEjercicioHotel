@@ -22,3 +22,6 @@ justo en un archivo requirements.txt que debemos de crear en la raiz del proyect
 
 
 Aqui igual podemos manejar una arquitetucra mvc, pero por rapidez muchas veces no se realiza esa separacion.
+
+despliegue en render https://backendejerciciohotel.onrender.com 
+
